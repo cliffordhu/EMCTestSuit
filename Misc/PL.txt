@@ -1,0 +1,2 @@
+freq,peaks,ttpos,twpos,polar
+48000742.2986515,35.1,130,150,1
